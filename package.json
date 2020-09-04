@@ -36,7 +36,7 @@
     "material-components-web": "^0.28.0",
     "material-design-icons": "^3.0.1",
     "mocha": "^4.0.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "optimize-css-assets-webpack-plugin": "^3.0.0",
     "prefix-keys": "^1.0.0",
     "sass-loader": "^7.0.0",
